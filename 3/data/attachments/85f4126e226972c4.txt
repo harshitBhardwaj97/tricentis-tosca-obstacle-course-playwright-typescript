@@ -1,0 +1,1 @@
+row: 73, col: 31, original: yyVU, changed: aGL6

@@ -1,0 +1,1 @@
+row: 33, col: 54, original: QWxR, changed: Xgfm

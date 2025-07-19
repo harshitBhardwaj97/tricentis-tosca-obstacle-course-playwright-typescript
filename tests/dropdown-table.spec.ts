@@ -10,7 +10,6 @@ test.beforeEach(async ({ page }) => {
 
 test(`dropdown table (${obstacleId})`, async ({ page }) => {
   await page.locator("a#generate").click()
-  
   const rows = await page.locator("table#comboboxTable tr:nth-child(n+2)").all()
 
   for (const row of rows) {

@@ -23,7 +23,7 @@ test(`bubble sort (${obstacleId})`, async ({ page }) => {
     return true
   }
 
-  const delay = 100
+  const delay = 300
 
   while (true) {
     const current = await getCurrentList()
@@ -36,11 +36,11 @@ test(`bubble sort (${obstacleId})`, async ({ page }) => {
     const second = parseInt(await page.locator("//div[@class='bubble']/div[2]").textContent())
 
     if (first > second) {
-      console.log(`swapping ${first} and ${second}`)
+      // console.log(`swapping ${first} and ${second}`)
       await page.locator("button:has-text('Swap')").click()
       await page.waitForTimeout(delay)
     } else {
-      console.log(`no swap needed for ${first} and ${second}`)
+      // console.log(`no swap needed for ${first} and ${second}`)
     }
 
     await page.locator("button:has-text('Next')").click()

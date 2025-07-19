@@ -18,7 +18,7 @@ test(`again and again and again (${obstacleId})`, async ({ page }) => {
     // @ts-ignore
     text = await button.textContent()
     i++
-    console.log(text)
+    // console.log(text)
   }
   await button.click()
   await expect(page.locator("//h2[.='Good job!']")).toBeVisible()

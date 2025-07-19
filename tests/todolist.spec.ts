@@ -36,8 +36,7 @@ test(`todolist (${obstacleId})`, async ({ page }) => {
     await taskRow.scrollIntoViewIfNeeded()
     console.log(`dragging ${await taskRow.innerText()}`)
     await taskRow.dragTo(dropTarget)
-    await page.waitForTimeout(100)
+    await page.waitForTimeout(200)
   }
-
   await expect(page.locator("//h2[.='Good job!']")).toBeVisible()
 })

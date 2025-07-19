@@ -18,12 +18,12 @@ test(`errors occur (${obstacleId})`, async ({ page }) => {
   while ("10" != count) {
     if ("ERROR" == await countButton.textContent()) {
       await callTechnicianButton.click()
-      console.log(`error found`)
-      await page.waitForTimeout(100)
+      // console.log(`error found`)
+      await page.waitForTimeout(200)
     }
 
     await countButton.click()
-    console.log(`current count: ${await countButton.textContent()}`)
+    // console.log(`current count: ${await countButton.textContent()}`)
 
     // @ts-ignore
     count = await countButton.textContent()

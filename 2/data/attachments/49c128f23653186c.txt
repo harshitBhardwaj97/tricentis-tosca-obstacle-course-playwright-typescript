@@ -1,0 +1,7 @@
+tasks -> 1,2,3,4,5,6
+dragging 1	Write recipe	Stefan
+dragging 2	Buy ingredients	Michael
+dragging 3	Bake cake	Andreas
+dragging 4	Eat cake	Frank
+dragging 5	Cleanup	Konrad
+dragging 6	Update recipe	Stefan

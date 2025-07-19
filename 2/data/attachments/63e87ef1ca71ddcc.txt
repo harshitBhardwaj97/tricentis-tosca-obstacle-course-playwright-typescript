@@ -1,0 +1,21 @@
+error found
+current count: 1
+current count: 2
+current count: 3
+current count: 4
+current count: 5
+current count: ERROR
+error found
+current count: 1
+current count: ERROR
+error found
+current count: 1
+current count: 2
+current count: 3
+current count: 4
+current count: 5
+current count: 6
+current count: 7
+current count: 8
+current count: 9
+current count: 10

@@ -1,0 +1,9 @@
+no swap needed for 1 and 6
+no swap needed for 1 and 6
+swapping 6 and 5
+no swap needed for 3 and 5
+no swap needed for 7 and 9
+no swap needed for 7 and 9
+swapping 9 and 8
+no swap needed for 4 and 8
+swapping 8 and 2

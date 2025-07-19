@@ -1,0 +1,90 @@
+no swap needed for 2 and 8
+no swap needed for 2 and 8
+swapping 8 and 1
+swapping 9 and 1
+swapping 4 and 1
+swapping 3 and 1
+swapping 5 and 1
+swapping 7 and 1
+swapping 6 and 1
+swapping 8 and 2
+swapping 9 and 2
+swapping 4 and 2
+swapping 3 and 2
+swapping 5 and 2
+swapping 7 and 2
+swapping 6 and 2
+no swap needed for 1 and 2
+no swap needed for 8 and 9
+swapping 9 and 4
+no swap needed for 4 and 9
+swapping 9 and 3
+swapping 5 and 3
+swapping 7 and 3
+swapping 6 and 3
+no swap needed for 1 and 3
+swapping 3 and 2
+no swap needed for 4 and 8
+no swap needed for 8 and 9
+swapping 9 and 5
+swapping 7 and 5
+swapping 6 and 5
+no swap needed for 1 and 5
+swapping 3 and 2
+no swap needed for 2 and 3
+no swap needed for 4 and 8
+no swap needed for 8 and 9
+swapping 7 and 6
+no swap needed for 6 and 7
+swapping 7 and 1
+swapping 5 and 1
+swapping 2 and 1
+swapping 3 and 1
+swapping 8 and 4
+swapping 9 and 4
+swapping 6 and 4
+no swap needed for 4 and 5
+no swap needed for 4 and 5
+no swap needed for 2 and 3
+swapping 3 and 1
+no swap needed for 1 and 3
+no swap needed for 8 and 9
+swapping 9 and 6
+swapping 7 and 6
+no swap needed for 4 and 6
+swapping 6 and 5
+no swap needed for 2 and 5
+swapping 5 and 1
+swapping 3 and 1
+swapping 9 and 8
+no swap needed for 7 and 8
+swapping 8 and 4
+swapping 6 and 4
+no swap needed for 2 and 4
+no swap needed for 4 and 5
+swapping 5 and 3
+no swap needed for 1 and 3
+swapping 9 and 7
+swapping 8 and 7
+no swap needed for 6 and 7
+swapping 7 and 2
+swapping 4 and 2
+swapping 5 and 2
+no swap needed for 1 and 2
+no swap needed for 2 and 3
+swapping 9 and 8
+no swap needed for 6 and 8
+swapping 8 and 7
+no swap needed for 4 and 7
+swapping 7 and 5
+no swap needed for 1 and 5
+swapping 5 and 2
+swapping 3 and 2
+no swap needed for 6 and 9
+swapping 9 and 8
+no swap needed for 4 and 8
+swapping 7 and 1
+no swap needed for 1 and 7
+swapping 5 and 3
+no swap needed for 3 and 5
+swapping 5 and 2
